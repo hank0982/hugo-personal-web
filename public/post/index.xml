@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yi-Hung Chou</title>
+    <link>https://yihungchou.com/post/</link>
+    <description>Recent content in Posts on Yi-Hung Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:53:31 +0800</lastBuildDate><atom:link href="https://yihungchou.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code With Human - Intro</title>
+      <link>https://yihungchou.com/post/code_with_human1/</link>
+      <pubDate>Tue, 01 Dec 2020 21:53:31 +0800</pubDate>
+      
+      <guid>https://yihungchou.com/post/code_with_human1/</guid>
+      <description>As a programmer, I often write my code in PROGRAMMER&amp;rsquo;s mind and review it again with my HUMAN&amp;rsquo;s mind.</description>
+    </item>
+    
+  </channel>
+</rss>

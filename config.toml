@@ -1,0 +1,74 @@
+baseURL = "https://yihungchou.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+theme = "anatole"
+title = "Yi-Hung Chou"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = "yihungchou-com"
+
+
+[params]
+title = "Yi-Hung Chou"
+author = "Yi-Hung Chou"
+description = "HCI for DEV"
+profilePicture = "images/profile.png"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["projects"]
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = true
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/hank0982/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/hank0982/"
+
+[[params.socialIcons]]
+icon = "fab fa-facebook"
+title = "Facebook"
+url = "https://www.facebook.com/YHC.Hank"
+
+[[params.socialIcons]]
+icon = "ai ai-google-scholar-square"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=pOtvIJwAAAAJ"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:yhc.hank@gmail.com"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects"
+
+
+  [[menu.main]]
+  name = "About"
+  weight = 100
+  identifier = "about"
+  url = "/about"

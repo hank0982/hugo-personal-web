@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yihungchou.com/about/</loc>
+    <lastmod>2020-12-06T00:58:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yihungchou.com/</loc>
+    <lastmod>2018-12-07T21:43:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yihungchou.com/projects/learning_platform/</loc>
+    <lastmod>2018-12-07T21:43:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yihungchou.com/projects/</loc>
+    <lastmod>2018-12-07T21:43:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yihungchou.com/projects/lantern/</loc>
+    <lastmod>2018-04-17T16:30:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yihungchou.com/projects/bidcoin/</loc>
+    <lastmod>2017-07-01T21:43:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yihungchou.com/projects/fred_feedme/</loc>
+    <lastmod>2017-07-01T21:43:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yihungchou.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yihungchou.com/tags/</loc>
+  </url>
+  
+</urlset>

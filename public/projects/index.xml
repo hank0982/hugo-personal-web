@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Yi-Hung Chou</title>
+    <link>https://yihungchou.com/projects/</link>
+    <description>Recent content in Projects on Yi-Hung Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Dec 2018 21:43:35 +0800</lastBuildDate><atom:link href="https://yihungchou.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Competition Simulation (BCS) Game</title>
+      <link>https://yihungchou.com/projects/learning_platform/</link>
+      <pubDate>Fri, 07 Dec 2018 21:43:35 +0800</pubDate>
+      
+      <guid>https://yihungchou.com/projects/learning_platform/</guid>
+      <description>Intro I partnered with Prof. Ku to build this platform in 4 months and rebuilt it for a better user interface in 3 months using ReactJS.</description>
+    </item>
+    
+    <item>
+      <title>Lantern - Pre-incubator project</title>
+      <link>https://yihungchou.com/projects/lantern/</link>
+      <pubDate>Tue, 17 Apr 2018 16:30:35 +0800</pubDate>
+      
+      <guid>https://yihungchou.com/projects/lantern/</guid>
+      <description>Intro To provide education institutions with technology-based solutions by putting students at the center of our product.</description>
+    </item>
+    
+    <item>
+      <title>Bidcoin</title>
+      <link>https://yihungchou.com/projects/bidcoin/</link>
+      <pubDate>Sat, 01 Jul 2017 21:43:35 +0800</pubDate>
+      
+      <guid>https://yihungchou.com/projects/bidcoin/</guid>
+      <description>Intro For all current online services for cryptocurrency transactions, they lack some useful data for users to predict and understand the true mechanism behind the cryptocurrency.</description>
+    </item>
+    
+    <item>
+      <title>Fred, Feed me</title>
+      <link>https://yihungchou.com/projects/fred_feedme/</link>
+      <pubDate>Sat, 01 Jul 2017 21:43:35 +0800</pubDate>
+      
+      <guid>https://yihungchou.com/projects/fred_feedme/</guid>
+      <description>Intro This project is for European Innovation Academy, a 30-days entrepreneur program.</description>
+    </item>
+    
+  </channel>
+</rss>
